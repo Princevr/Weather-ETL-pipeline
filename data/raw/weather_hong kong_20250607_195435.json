@@ -1,0 +1,45 @@
+{
+    "coord": {
+        "lon": 114.1577,
+        "lat": 22.2855
+    },
+    "weather": [
+        {
+            "id": 800,
+            "main": "Clear",
+            "description": "clear sky",
+            "icon": "01n"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 28.82,
+        "feels_like": 35.09,
+        "temp_min": 27.49,
+        "temp_max": 29.58,
+        "pressure": 1006,
+        "humidity": 84,
+        "sea_level": 1006,
+        "grnd_level": 1001
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 2.24,
+        "deg": 230
+    },
+    "clouds": {
+        "all": 4
+    },
+    "dt": 1749318746,
+    "sys": {
+        "type": 2,
+        "id": 2035800,
+        "country": "HK",
+        "sunrise": 1749332328,
+        "sunset": 1749380773
+    },
+    "timezone": 28800,
+    "id": 1819729,
+    "name": "Hong Kong",
+    "cod": 200
+}

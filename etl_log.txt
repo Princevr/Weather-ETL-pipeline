@@ -1,0 +1,196 @@
+Weather in Munich
+Temp: 28.37 °C
+Humidity: 50 %
+Saved to data/raw/weather_20250604_145822.json
+Cleaned data saved to data/clean_weather.csv
+ Cleaned data successfully stored in SQLite database.
+
+----- ETL RUN at 2025-06-04 14:58:21.869741 -----
+ Fetching weather data...
+ Cleaning weather data...
+ Storing weather data into SQLite...
+ ETL process completed.
+Weather in frankfurt
+Temp: 19.21 °C
+Humidity: 85 %
+Saved to data/raw/weather_20250604_150631.json
+Cleaned data saved to data/clean_weather.csv
+ Cleaned data successfully stored in SQLite database.
+
+----- ETL RUN at 2025-06-04 15:06:31.452021 -----
+ Fetching weather data...
+ Cleaning weather data...
+ Storing weather data into SQLite...
+ ETL process completed.
+Weather in tokyo
+Temp: 21.96 °C
+Humidity: 71 %
+Saved to data/raw/weather_20250605_165050.json
+Cleaned data saved to data/clean_weather.csv
+ Cleaned data successfully stored in SQLite database.
+
+----- ETL RUN at 2025-06-05 16:50:49.223505 -----
+ Fetching weather data...
+ Cleaning weather data...
+ Storing weather data into SQLite...
+ ETL process completed.
+Weather in canada
+Temp: 29.63 °C
+Humidity: 48 %
+Saved to data/raw/weather_20250606_125419.json
+Cleaned data saved to data/clean_weather.csv
+ Cleaned data successfully stored in SQLite database.
+
+----- ETL RUN at 2025-06-06 12:54:18.716479 -----
+Fetching weather data...
+Cleaning weather data...
+Storing data...
+ETL completed.
+Weather in canada
+Temp: 29.63 °C
+Humidity: 48 %
+Saved to data/raw/weather_20250606_125539.json
+Cleaned data saved to data/clean_weather.csv
+ Cleaned data successfully stored in SQLite database.
+
+----- ETL RUN at 2025-06-06 12:55:38.576871 -----
+Fetching weather data...
+Cleaning weather data...
+Storing data...
+ETL completed.
+Weather in canada
+Temp: 29.63 °C
+Humidity: 48 %
+Saved to data/raw/weather_20250606_125648.json
+Cleaned data saved to data/clean_weather.csv
+ Cleaned data successfully stored in SQLite database.
+
+----- ETL RUN at 2025-06-06 12:56:47.717270 -----
+Fetching weather data...
+Cleaning weather data...
+Storing data...
+ETL completed.
+Weather in canada
+Temp: 29.63 °C
+Humidity: 48 %
+Saved to data/raw/weather_20250606_125716.json
+Cleaned data saved to data/clean_weather.csv
+ Cleaned data successfully stored in SQLite database.
+
+----- ETL RUN at 2025-06-06 12:57:16.171056 -----
+Fetching weather data...
+Cleaning weather data...
+Storing data...
+ETL completed.
+Weather in canada
+Temp: 29.63 °C
+Humidity: 48 %
+Saved to data/raw/weather_20250606_125752.json
+Cleaned data saved to data/clean_weather.csv
+ Cleaned data successfully stored in SQLite database.
+
+----- ETL RUN at 2025-06-06 12:57:51.547605 -----
+Fetching weather data...
+Cleaning weather data...
+Storing data...
+ETL completed.
+Weather in canada
+Temp: 29.63 °C
+Humidity: 48 %
+Saved to data/raw/weather_20250606_125814.json
+Cleaned data saved to data/clean_weather.csv
+ Cleaned data successfully stored in SQLite database.
+
+----- ETL RUN at 2025-06-06 12:58:14.048649 -----
+Fetching weather data...
+Cleaning weather data...
+Storing data...
+ETL completed.
+Weather in canada
+Temp: 30.18 °C
+Humidity: 48 %
+Saved to data/raw/weather_20250606_125925.json
+Cleaned data saved to data/clean_weather.csv
+ Cleaned data successfully stored in SQLite database.
+
+----- ETL RUN at 2025-06-06 12:59:25.092538 -----
+Fetching weather data...
+Cleaning weather data...
+Storing data...
+ETL completed.
+Weather in canada
+Temp: 29.63 °C
+Humidity: 48 %
+Saved to data/raw/weather_20250606_130035.json
+Cleaned data saved to data/clean_weather.csv
+ Cleaned data successfully stored in SQLite database.
+
+----- ETL RUN at 2025-06-06 13:00:34.794721 -----
+Fetching weather data...
+Cleaning weather data...
+Storing data...
+ETL completed.
+Weather in canada
+Temp: 29.63 °C
+Humidity: 48 %
+Saved to data/raw/weather_20250606_130152.json
+Cleaned data saved to data/clean_weather.csv
+ Cleaned data successfully stored in SQLite database.
+
+----- ETL RUN at 2025-06-06 13:01:51.743257 -----
+Fetching weather data...
+Cleaning weather data...
+Storing data...
+ETL completed.
+Weather in canada
+Temp: 29.63 °C
+Humidity: 48 %
+Saved to data/raw/weather_20250606_130236.json
+Cleaned data saved to data/clean_weather.csv
+ Cleaned data successfully stored in SQLite database.
+
+----- ETL RUN at 2025-06-06 13:02:35.948589 -----
+Fetching weather data...
+Cleaning weather data...
+Storing data...
+ETL completed.
+Weather in  berlin 
+Temp: 17.62 °C
+Humidity: 81 %
+Saved to data/raw/weather_20250607_193848.json
+Cleaned data saved to data/clean_weather.csv
+ Cleaned data successfully stored in SQLite database.
+
+----- ETL RUN at 2025-06-07 19:38:47.494874 -----
+Fetching weather data...
+Cleaning weather data...
+Storing data...
+ETL completed.
+Weather in Berlin
+Temp: 16.78 °C
+Humidity: 89 %
+Saved to data/raw/weather_berlin_20250607_195344.json
+Weather in London
+Temp: 13.47 °C
+Humidity: 90 %
+Saved to data/raw/weather_london_20250607_195344.json
+Weather in New York
+Temp: 23.07 °C
+Humidity: 85 %
+Saved to data/raw/weather_new york_20250607_195344.json
+Weather in Tokyo
+Temp: 21.49 °C
+Humidity: 81 %
+Saved to data/raw/weather_tokyo_20250607_195344.json
+Weather in Delhi
+Temp: 34.05 °C
+Humidity: 43 %
+Saved to data/raw/weather_delhi_20250607_195344.json
+Cleaned data saved to data/clean_weather.csv
+ Cleaned data successfully stored in SQLite database.
+
+----- ETL RUN at 2025-06-07 19:53:43.519325 -----
+Fetching weather data...
+Cleaning weather data...
+Storing data...
+ETL completed.

@@ -1,0 +1,54 @@
+city,datetime,temperature_C,humidity_percent,weather_main,weather_description
+Surat,2025-05-28 14:01:01,29.99,84,Smoke,smoke
+Munich,2025-05-28 13:53:17,14.29,85,Rain,heavy intensity rain
+Ottawa,2025-05-28 14:01:00,19.75,59,Clouds,few clouds
+Starnberg,2025-05-28 13:54:07,13.25,85,Rain,shower rain
+Amreli,2025-06-04 12:39:15,35.71,31,Clear,clear sky
+Frankfurt am Main,2025-06-04 13:05:37,19.21,85,Rain,shower rain
+Delhi,2025-06-06 09:46:10,38.05,30,Haze,haze
+Cañada,2025-06-07 17:32:46,33.52,45,Clear,clear sky
+Bavaria,2025-06-07 17:36:07,28.09,71,Clouds,scattered clouds
+Amsterdam,2025-06-07 17:44:51,15.71,70,Clouds,scattered clouds
+Athens,2025-06-07 17:44:06,28.5,55,Clear,clear sky
+Bangkok,2025-06-07 17:49:38,29.76,75,Clouds,overcast clouds
+Barcelona,2025-06-07 17:44:54,23.92,70,Clouds,scattered clouds
+Beijing,2025-06-07 17:49:58,20.94,37,Clouds,broken clouds
+Berlin,2025-06-07 17:45:17,16.78,89,Clouds,broken clouds
+Bogota,2025-06-07 17:54:35,16.36,72,Clouds,scattered clouds
+Buenos Aires,2025-06-07 17:54:00,15.04,61,Clear,clear sky
+Cairo,2025-06-07 17:47:13,31.42,35,Clear,clear sky
+Cape Town,2025-06-07 17:48:08,12.68,90,Clouds,broken clouds
+Chicago,2025-06-07 17:44:46,21.69,69,Clouds,broken clouds
+Delhi,2025-06-07 17:48:05,34.05,43,Haze,haze
+Delhi,2025-06-07 17:48:05,34.05,43,Haze,haze
+Dubai,2025-06-07 17:50:44,31.96,74,Clear,clear sky
+Hong Kong,2025-06-07 17:52:26,28.82,84,Clear,clear sky
+Istanbul,2025-06-07 17:50:01,20.09,73,Clouds,scattered clouds
+Jerusalem,2025-06-07 17:51:18,22.06,62,Clear,clear sky
+Lagos,2025-06-07 17:47:26,24.89,93,Clouds,overcast clouds
+Las Vegas,2025-06-07 17:52:12,34.58,20,Clouds,few clouds
+Lima,2025-06-07 17:54:35,19.39,77,Clouds,overcast clouds
+London,2025-06-07 17:44:32,13.47,90,Clouds,broken clouds
+Los Angeles,2025-06-07 17:54:35,17.1,79,Haze,haze
+Marrakesh,2025-06-07 17:50:41,35.04,36,Clouds,scattered clouds
+Melbourne,2025-06-07 17:52:26,32.39,61,Clouds,few clouds
+Mexico City,2025-06-07 17:51:15,22.75,46,Clouds,scattered clouds
+Miami,2025-06-07 17:43:22,31.81,67,Clouds,scattered clouds
+Mumbai,2025-06-07 17:54:34,26.99,78,Mist,mist
+Nairobi,2025-06-07 17:50:34,18.93,63,Clouds,broken clouds
+New York,2025-06-07 17:54:35,23.07,86,Rain,heavy intensity rain
+Paris,2025-06-07 17:49:37,18.45,70,Clouds,broken clouds
+Prague,2025-06-07 17:49:00,17.12,89,Rain,moderate rain
+Rio de Janeiro,2025-06-07 17:52:56,23.78,73,Clouds,broken clouds
+Rome,2025-06-07 17:45:11,29.28,74,Clouds,broken clouds
+San Francisco,2025-06-07 17:50:28,14.45,84,Clouds,overcast clouds
+Santiago,2025-06-07 17:53:05,15.56,56,Clear,clear sky
+Seoul,2025-06-07 17:50:55,19.76,100,Mist,mist
+Shanghai,2025-06-07 17:49:43,23.92,94,Clouds,scattered clouds
+Singapore,2025-06-07 17:42:48,27.81,79,Clouds,broken clouds
+Sydney,2025-06-07 17:51:05,10.59,65,Clear,clear sky
+Tokyo,2025-06-07 17:48:06,21.49,81,Rain,light rain
+Vancouver,2025-06-07 17:51:12,20.13,70,Clouds,few clouds
+Venice,2025-06-07 17:54:11,30.22,71,Clear,clear sky
+Vienna,2025-06-07 17:49:29,18.95,83,Clouds,few clouds
+Washington D.C.,2025-06-07 17:54:35,27.67,65,Clouds,scattered clouds

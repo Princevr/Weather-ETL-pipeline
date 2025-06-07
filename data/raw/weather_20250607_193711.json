@@ -1,0 +1,49 @@
+{
+    "coord": {
+        "lon": 13.4105,
+        "lat": 52.5244
+    },
+    "weather": [
+        {
+            "id": 501,
+            "main": "Rain",
+            "description": "moderate rain",
+            "icon": "10d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 17.62,
+        "feels_like": 17.55,
+        "temp_min": 16.1,
+        "temp_max": 19.08,
+        "pressure": 1008,
+        "humidity": 81,
+        "sea_level": 1008,
+        "grnd_level": 1003
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 6.26,
+        "deg": 246,
+        "gust": 8.05
+    },
+    "rain": {
+        "1h": 1.72
+    },
+    "clouds": {
+        "all": 0
+    },
+    "dt": 1749317565,
+    "sys": {
+        "type": 2,
+        "id": 2011538,
+        "country": "DE",
+        "sunrise": 1749264328,
+        "sunset": 1749324316
+    },
+    "timezone": 7200,
+    "id": 2950159,
+    "name": "Berlin",
+    "cod": 200
+}

@@ -1,0 +1,45 @@
+{
+    "coord": {
+        "lon": -115.1372,
+        "lat": 36.175
+    },
+    "weather": [
+        {
+            "id": 801,
+            "main": "Clouds",
+            "description": "few clouds",
+            "icon": "02d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 34.58,
+        "feels_like": 32.58,
+        "temp_min": 32.69,
+        "temp_max": 35.62,
+        "pressure": 1011,
+        "humidity": 20,
+        "sea_level": 1011,
+        "grnd_level": 945
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 1.54,
+        "deg": 140
+    },
+    "clouds": {
+        "all": 20
+    },
+    "dt": 1749318732,
+    "sys": {
+        "type": 2,
+        "id": 2016943,
+        "country": "US",
+        "sunrise": 1749298999,
+        "sunset": 1749351356
+    },
+    "timezone": -25200,
+    "id": 5506956,
+    "name": "Las Vegas",
+    "cod": 200
+}

@@ -1,0 +1,45 @@
+{
+    "coord": {
+        "lon": -8.0083,
+        "lat": 31.6315
+    },
+    "weather": [
+        {
+            "id": 802,
+            "main": "Clouds",
+            "description": "scattered clouds",
+            "icon": "03d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 35.04,
+        "feels_like": 36.16,
+        "temp_min": 35.04,
+        "temp_max": 35.04,
+        "pressure": 1009,
+        "humidity": 36,
+        "sea_level": 1009,
+        "grnd_level": 956
+    },
+    "visibility": 6000,
+    "wind": {
+        "speed": 8.75,
+        "deg": 270
+    },
+    "clouds": {
+        "all": 40
+    },
+    "dt": 1749318641,
+    "sys": {
+        "type": 1,
+        "id": 2409,
+        "country": "MA",
+        "sunrise": 1749274003,
+        "sunset": 1749324923
+    },
+    "timezone": 3600,
+    "id": 2542997,
+    "name": "Marrakesh",
+    "cod": 200
+}

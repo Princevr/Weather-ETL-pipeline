@@ -1,0 +1,46 @@
+{
+    "coord": {
+        "lon": 13.4105,
+        "lat": 52.5244
+    },
+    "weather": [
+        {
+            "id": 803,
+            "main": "Clouds",
+            "description": "broken clouds",
+            "icon": "04d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 16.78,
+        "feels_like": 16.84,
+        "temp_min": 14.49,
+        "temp_max": 17.75,
+        "pressure": 1008,
+        "humidity": 89,
+        "sea_level": 1008,
+        "grnd_level": 1003
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 4.42,
+        "deg": 260,
+        "gust": 7.16
+    },
+    "clouds": {
+        "all": 81
+    },
+    "dt": 1749318317,
+    "sys": {
+        "type": 2,
+        "id": 2091794,
+        "country": "DE",
+        "sunrise": 1749264328,
+        "sunset": 1749324316
+    },
+    "timezone": 7200,
+    "id": 2950159,
+    "name": "Berlin",
+    "cod": 200
+}

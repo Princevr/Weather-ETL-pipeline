@@ -1,0 +1,45 @@
+{
+    "coord": {
+        "lon": 16.3721,
+        "lat": 48.2085
+    },
+    "weather": [
+        {
+            "id": 801,
+            "main": "Clouds",
+            "description": "few clouds",
+            "icon": "02d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 18.95,
+        "feels_like": 19.07,
+        "temp_min": 17.89,
+        "temp_max": 19.93,
+        "pressure": 1014,
+        "humidity": 83,
+        "sea_level": 1014,
+        "grnd_level": 988
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 3.6,
+        "deg": 320
+    },
+    "clouds": {
+        "all": 20
+    },
+    "dt": 1749318569,
+    "sys": {
+        "type": 2,
+        "id": 2039456,
+        "country": "AT",
+        "sunrise": 1749264921,
+        "sunset": 1749322301
+    },
+    "timezone": 7200,
+    "id": 2761369,
+    "name": "Vienna",
+    "cod": 200
+}

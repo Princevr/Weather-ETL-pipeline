@@ -1,0 +1,46 @@
+{
+    "coord": {
+        "lon": -58.3772,
+        "lat": -34.6132
+    },
+    "weather": [
+        {
+            "id": 800,
+            "main": "Clear",
+            "description": "clear sky",
+            "icon": "01d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 15.04,
+        "feels_like": 14.19,
+        "temp_min": 14.85,
+        "temp_max": 16.82,
+        "pressure": 1020,
+        "humidity": 61,
+        "sea_level": 1020,
+        "grnd_level": 1019
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 3.58,
+        "deg": 340,
+        "gust": 0
+    },
+    "clouds": {
+        "all": 0
+    },
+    "dt": 1749318840,
+    "sys": {
+        "type": 2,
+        "id": 2092396,
+        "country": "AR",
+        "sunrise": 1749293724,
+        "sunset": 1749329382
+    },
+    "timezone": -10800,
+    "id": 3435910,
+    "name": "Buenos Aires",
+    "cod": 200
+}

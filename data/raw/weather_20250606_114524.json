@@ -1,0 +1,46 @@
+{
+    "coord": {
+        "lon": 11.5755,
+        "lat": 48.1374
+    },
+    "weather": [
+        {
+            "id": 803,
+            "main": "Clouds",
+            "description": "broken clouds",
+            "icon": "04d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 21.69,
+        "feels_like": 21.61,
+        "temp_min": 20.52,
+        "temp_max": 22.96,
+        "pressure": 1015,
+        "humidity": 65,
+        "sea_level": 1015,
+        "grnd_level": 953
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 2.68,
+        "deg": 222,
+        "gust": 4.47
+    },
+    "clouds": {
+        "all": 82
+    },
+    "dt": 1749203068,
+    "sys": {
+        "type": 2,
+        "id": 2002112,
+        "country": "DE",
+        "sunrise": 1749179716,
+        "sunset": 1749236988
+    },
+    "timezone": 7200,
+    "id": 2867714,
+    "name": "Munich",
+    "cod": 200
+}

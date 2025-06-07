@@ -1,0 +1,46 @@
+{
+    "coord": {
+        "lon": 35.2163,
+        "lat": 31.769
+    },
+    "weather": [
+        {
+            "id": 800,
+            "main": "Clear",
+            "description": "clear sky",
+            "icon": "01n"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 22.06,
+        "feels_like": 21.94,
+        "temp_min": 22.06,
+        "temp_max": 23.15,
+        "pressure": 1011,
+        "humidity": 62,
+        "sea_level": 1011,
+        "grnd_level": 941
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 2.24,
+        "deg": 326,
+        "gust": 4.47
+    },
+    "clouds": {
+        "all": 0
+    },
+    "dt": 1749318678,
+    "sys": {
+        "type": 2,
+        "id": 2004982,
+        "country": "IL",
+        "sunrise": 1749263610,
+        "sunset": 1749314566
+    },
+    "timezone": 10800,
+    "id": 281184,
+    "name": "Jerusalem",
+    "cod": 200
+}

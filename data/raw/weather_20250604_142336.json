@@ -1,0 +1,46 @@
+{
+    "coord": {
+        "lon": 11.35,
+        "lat": 48
+    },
+    "weather": [
+        {
+            "id": 804,
+            "main": "Clouds",
+            "description": "overcast clouds",
+            "icon": "04d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 27.72,
+        "feels_like": 27.69,
+        "temp_min": 25.66,
+        "temp_max": 28.24,
+        "pressure": 1010,
+        "humidity": 44,
+        "sea_level": 1010,
+        "grnd_level": 939
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 2.4,
+        "deg": 311,
+        "gust": 3.04
+    },
+    "clouds": {
+        "all": 98
+    },
+    "dt": 1749039767,
+    "sys": {
+        "type": 2,
+        "id": 2013123,
+        "country": "DE",
+        "sunrise": 1749007064,
+        "sunset": 1749064106
+    },
+    "timezone": 7200,
+    "id": 2829457,
+    "name": "Starnberg",
+    "cod": 200
+}

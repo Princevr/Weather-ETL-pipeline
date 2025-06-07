@@ -1,0 +1,48 @@
+{
+    "coord": {
+        "lon": 11.35,
+        "lat": 48
+    },
+    "weather": [
+        {
+            "id": 521,
+            "main": "Rain",
+            "description": "shower rain",
+            "icon": "09d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 13.25,
+        "feels_like": 12.85,
+        "temp_min": 12.7,
+        "temp_max": 13.95,
+        "pressure": 1019,
+        "humidity": 85,
+        "sea_level": 1019,
+        "grnd_level": 947
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 8.75,
+        "deg": 250
+    },
+    "rain": {
+        "1h": 4.21
+    },
+    "clouds": {
+        "all": 100
+    },
+    "dt": 1748440447,
+    "sys": {
+        "type": 1,
+        "id": 1307,
+        "country": "DE",
+        "sunrise": 1748402544,
+        "sunset": 1748458903
+    },
+    "timezone": 7200,
+    "id": 2829457,
+    "name": "Starnberg",
+    "cod": 200
+}

@@ -1,0 +1,45 @@
+{
+    "coord": {
+        "lon": -77.0282,
+        "lat": -12.0432
+    },
+    "weather": [
+        {
+            "id": 804,
+            "main": "Clouds",
+            "description": "overcast clouds",
+            "icon": "04d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 19.39,
+        "feels_like": 19.4,
+        "temp_min": 18.14,
+        "temp_max": 19.39,
+        "pressure": 1014,
+        "humidity": 77,
+        "sea_level": 1014,
+        "grnd_level": 987
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 3.09,
+        "deg": 130
+    },
+    "clouds": {
+        "all": 100
+    },
+    "dt": 1749318875,
+    "sys": {
+        "type": 2,
+        "id": 2037860,
+        "country": "PE",
+        "sunrise": 1749295443,
+        "sunset": 1749336618
+    },
+    "timezone": -18000,
+    "id": 3936456,
+    "name": "Lima",
+    "cod": 200
+}

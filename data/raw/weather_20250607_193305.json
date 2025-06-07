@@ -1,0 +1,46 @@
+{
+    "coord": {
+        "lon": -0.8141,
+        "lat": 38.6767
+    },
+    "weather": [
+        {
+            "id": 800,
+            "main": "Clear",
+            "description": "clear sky",
+            "icon": "01d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 33.52,
+        "feels_like": 35.89,
+        "temp_min": 33.52,
+        "temp_max": 33.52,
+        "pressure": 1014,
+        "humidity": 45,
+        "sea_level": 1014,
+        "grnd_level": 937
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 0.42,
+        "deg": 277,
+        "gust": 3.79
+    },
+    "clouds": {
+        "all": 1
+    },
+    "dt": 1749317566,
+    "sys": {
+        "type": 2,
+        "id": 2085591,
+        "country": "ES",
+        "sunrise": 1749271129,
+        "sunset": 1749324343
+    },
+    "timezone": 7200,
+    "id": 6355428,
+    "name": "Ca\u00f1ada",
+    "cod": 200
+}

@@ -1,0 +1,48 @@
+{
+    "coord": {
+        "lon": 14.4208,
+        "lat": 50.088
+    },
+    "weather": [
+        {
+            "id": 501,
+            "main": "Rain",
+            "description": "moderate rain",
+            "icon": "10d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 17.12,
+        "feels_like": 17.21,
+        "temp_min": 16.27,
+        "temp_max": 18.07,
+        "pressure": 1013,
+        "humidity": 89,
+        "sea_level": 1013,
+        "grnd_level": 979
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 4.12,
+        "deg": 200
+    },
+    "rain": {
+        "1h": 1.15
+    },
+    "clouds": {
+        "all": 75
+    },
+    "dt": 1749318540,
+    "sys": {
+        "type": 2,
+        "id": 2010430,
+        "country": "CZ",
+        "sunrise": 1749264860,
+        "sunset": 1749323299
+    },
+    "timezone": 7200,
+    "id": 3067696,
+    "name": "Prague",
+    "cod": 200
+}

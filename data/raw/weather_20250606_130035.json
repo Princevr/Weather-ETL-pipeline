@@ -1,0 +1,46 @@
+{
+    "coord": {
+        "lon": -0.8141,
+        "lat": 38.6767
+    },
+    "weather": [
+        {
+            "id": 803,
+            "main": "Clouds",
+            "description": "broken clouds",
+            "icon": "04d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 29.63,
+        "feels_like": 30.23,
+        "temp_min": 29.63,
+        "temp_max": 29.63,
+        "pressure": 1017,
+        "humidity": 48,
+        "sea_level": 1017,
+        "grnd_level": 939
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 4.09,
+        "deg": 183,
+        "gust": 3.25
+    },
+    "clouds": {
+        "all": 79
+    },
+    "dt": 1749207339,
+    "sys": {
+        "type": 2,
+        "id": 2085591,
+        "country": "ES",
+        "sunrise": 1749184743,
+        "sunset": 1749237909
+    },
+    "timezone": 7200,
+    "id": 6355428,
+    "name": "Ca\u00f1ada",
+    "cod": 200
+}

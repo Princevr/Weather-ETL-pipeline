@@ -1,0 +1,44 @@
+{
+    "coord": {
+        "lon": -73.3667,
+        "lat": 4.3333
+    },
+    "weather": [
+        {
+            "id": 802,
+            "main": "Clouds",
+            "description": "scattered clouds",
+            "icon": "03d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 28.09,
+        "feels_like": 30.98,
+        "temp_min": 28.09,
+        "temp_max": 28.09,
+        "pressure": 1014,
+        "humidity": 71,
+        "sea_level": 1014,
+        "grnd_level": 953
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 1.48,
+        "deg": 153,
+        "gust": 1.62
+    },
+    "clouds": {
+        "all": 38
+    },
+    "dt": 1749317767,
+    "sys": {
+        "country": "CO",
+        "sunrise": 1749292896,
+        "sunset": 1749337406
+    },
+    "timezone": -18000,
+    "id": 3689047,
+    "name": "Bavaria",
+    "cod": 200
+}

@@ -1,0 +1,45 @@
+{
+    "coord": {
+        "lon": 72.8333,
+        "lat": 21.1667
+    },
+    "weather": [
+        {
+            "id": 711,
+            "main": "Smoke",
+            "description": "smoke",
+            "icon": "50n"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 29.99,
+        "feels_like": 36.99,
+        "temp_min": 29.99,
+        "temp_max": 29.99,
+        "pressure": 999,
+        "humidity": 84,
+        "sea_level": 999,
+        "grnd_level": 998
+    },
+    "visibility": 5000,
+    "wind": {
+        "speed": 7.72,
+        "deg": 220
+    },
+    "clouds": {
+        "all": 75
+    },
+    "dt": 1748440861,
+    "sys": {
+        "type": 1,
+        "id": 9071,
+        "country": "IN",
+        "sunrise": 1748392033,
+        "sunset": 1748439900
+    },
+    "timezone": 19800,
+    "id": 1255364,
+    "name": "Surat",
+    "cod": 200
+}
