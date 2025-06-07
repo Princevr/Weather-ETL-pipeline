@@ -104,9 +104,7 @@ Dashboard File: `weather_dashboard.pbix`
 ---
 
 ## 🧪 Sample Screenshot
-
-
-
+![Temperature and Predicted Temperature Over Time](BI_weather_forecast\Data visualization)
 ---
 
 ## ⚙️ How to Run the Project
