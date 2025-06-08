@@ -187,11 +187,6 @@ python src/predict_temperature.py
 - Refresh the connected datasets: `clean_weather.csv` and `prediction_output.csv`
 - Explore charts, filters, and ML forecasts
 
-<<<<<<< HEAD
-=======
-
-
->>>>>>> 20ea4c528c51d9fcccf5d5549120882ae7cf7fed
 ##  Final Deliverables
 
 - `README.md`
